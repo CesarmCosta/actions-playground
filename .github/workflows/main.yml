@@ -1,12 +1,12 @@
 name: "Hello world workflow"
 
 on:
-  workflow_dispatch:
+  	workflow_dispatch:
   
 jobs:
-  print_hello_world:
-  name: Hello world!
-  runs-on: ubuntu-latest
+	print_hello_world:
+	name: Hello world!
+	runs-on: ubuntu-latest
   
 steps:
 	- name: Hello world!
