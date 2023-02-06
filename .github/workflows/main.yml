@@ -5,7 +5,7 @@ on:
   
 jobs:
   print_hello_world:
-  name: Hello World!
+  name: Hello world!
   runs-on: ubuntu-latest
   
 steps:
