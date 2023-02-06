@@ -1,7 +1,7 @@
 name: "Hello world workflow"
 
 on:
-  workflow_dispactch:
+  workflow_dispatch:
   
 jobs:
   print_hello_world:
