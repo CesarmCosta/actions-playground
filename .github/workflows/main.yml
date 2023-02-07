@@ -36,6 +36,6 @@ jobs:
       - print_date_windows
       - print_date_macos
    
-   steps:
-      - name: Print date MacOS!
+  steps:
+      - name: Print date Ubuntu!
         run: date
