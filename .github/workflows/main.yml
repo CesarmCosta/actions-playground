@@ -28,7 +28,7 @@ jobs:
       - name: Print date MacOS!
         run: date
 
- print_date_final:
+  print_date_final:
     name: Print date final!
     runs-on: ubuntu-latest
     needs:
